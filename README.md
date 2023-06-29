@@ -1,3 +1,3 @@
 # Zelda
-file:///C:/Users/SEBASTIAN/Desktop/TikTokChampions/Logo_de_The_Legend_of_Zelda_Tears_of_the_Kingdom.webp
+![image](https://github.com/SebastianJDev/Zelda/assets/104598507/433cbd45-d08f-4891-bfc8-7a5d30591b89)
 Proyecto de Github ToonShader TikTok
